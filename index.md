@@ -23,7 +23,7 @@
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [D.H. Truong, C. Weisman, D. Baltean Carlès, F. Jebali Jerbi, J. Rémus. Etude du démarrage du son produit par un instrument de musique thermoacoustique : le thermophone. Congrès Français d’Acoustique.](http://example.com/)
 
 ---
 
