@@ -4,16 +4,9 @@
 
 ### Peer-review articles
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Project 1 Title](/sample_page)
+- [Project 2 Title](/pdf/sample_presentation.pdf)
+- H. Truong, T. Engels, D. Kolomenskiy, K. Schneider. A mass-spring fluid-structure interaction solver: application to flexible revolving wings, Computers and Fluids 200:104426 [DOI](https://doi.org/10.1016/j.compfluid.2020.104426)
 
 ---
 
