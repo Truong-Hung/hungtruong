@@ -38,6 +38,8 @@
 
 - [http://aifit.cfd.tu-berlin.de/wordpress/](http://aifit.cfd.tu-berlin.de/wordpress/)
 
+<img src="images/BB_in_turbulence.gif?raw=true"/>
+
 ---
 
 
