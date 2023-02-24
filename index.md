@@ -21,32 +21,22 @@
 
 ---
 
-## Portfolio
+## Research projects
 
 ---
 
-### Category Name 1 
+### Active Flow Control for Tilt-Rotor aircraft - AFC4TR 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[https://www.afc4tr.eu](https://www.afc4tr.eu/)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AFC4TR.newsletter_v2.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Aerodynamics of Insect Flight In Turbulent Flow - AIFIT
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [http://aifit.cfd.tu-berlin.de/wordpress/](http://aifit.cfd.tu-berlin.de/wordpress/)
 
 ---
 
