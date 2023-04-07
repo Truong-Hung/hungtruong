@@ -7,15 +7,24 @@ description: > # your text below (remove <br> elements if you don't need line br
     Insect Flight; Turbulence; Numerical Methods; Fluid-Structure Interaction
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Truong-Hung"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/hung-truong-b1007ab2/"  
+
+main:
+  - title: "About me"
+    url: /about/
+  - title: "Posts"
+    url: /years/
+  - title: "Pages"
+    url: /pages/
+  - title: "Tags"
+    url: /tags/
+
+links:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/Truong-Hung"
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/hung-truong-b1007ab2/"  
  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
