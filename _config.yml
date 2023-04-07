@@ -26,5 +26,6 @@ links:
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/hung-truong-b1007ab2/"  
  
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
