@@ -10,4 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
  
 #theme: jekyll-theme-minimal
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
